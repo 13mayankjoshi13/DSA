@@ -1,5 +1,5 @@
 // used for removing the repetition of std
-# include < iostream >
+#include <iostream>
 using namespace std;
 int main(){
     cout << "Hey, Mayank" << endl << "Hey, Joshi" << endl;
