@@ -1,0 +1,14 @@
+//program that takes an input of age and prints if you are adult or not
+// >=18, yes
+// < 18,no
+int main(){
+  int age;
+  cin >> age;
+  if(age>=18){
+    cout << " yOu are an adult " ;
+  }
+  else { 
+    cout << " yOU are not an adult ";
+  }
+  return 0;
+}
