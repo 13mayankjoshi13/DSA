@@ -1,4 +1,4 @@
- //As we did in [grading_system.cpp](./grading_system.cpp)
+[grading_system.cpp](./grading_system.cpp)
 // code is correct but not the write way to write , as it will execute all the if statements
 // it will take a lot of space and time , hence , we will use else if to check only certain statements
 int main() {
